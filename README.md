@@ -21,7 +21,7 @@ Or download the archive in [releases tab](https://github.com/dwisiswant0/AiryRoo
 AiryRoomXtrap required **PHP 5+**, and currently tested on **PHP 7.0.25** *(CLI)*.
 
 ## Configuration
->[AiryRoomXtrap.config.php](https://github.com/dwisiswant0/AiryRoomXtrap/blob/master/bitslerbot.config.php)
+>[AiryRoomXtrap.config.php](https://github.com/dwisiswant0/AiryRoomXtrap/blob/master/src/AiryRoomXtrap.config.php)
 ```php
 $verbose = FALSE; // Set to TRUE if you don't want to display invalid code coupons
 $prefix = array(
