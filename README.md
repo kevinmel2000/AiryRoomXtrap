@@ -6,6 +6,8 @@
 
 Auto eXtrap & Check AiryRooms Coupon Codes.
 
+# ----------- DEPRECATED SINCE 28 MARCH 2018! -----------
+
 ## Proof
 > Proof of AiryRoomXtrap
 
